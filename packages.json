@@ -1,0 +1,22 @@
+[
+  {
+    "package": "JABBA3",
+    "url": "https://github.com/Henning-Winker/JABBA3"
+  },
+  {
+    "package": "FLicc",
+    "url": "https://github.com/Henning-Winker/FLicc"
+  },
+  {
+    "package": "cpueTargeting",
+    "url": "https://github.com/Henning-Winker/cpueTargeting"
+  },
+  {
+    "package": "FLOSS",
+    "url": "https://github.com/Henning-Winker/FLOSS"
+  },
+  {
+    "package": "mmsyFM",
+    "url": "https://github.com/Henning-Winker/mmsyFM"
+  }
+]
